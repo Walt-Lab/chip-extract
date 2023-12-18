@@ -1,0 +1,14 @@
+chip_labels:
+  experimental:
+  - test_chip_2
+  negative: test_chip_1
+input_chip_files:
+  experimental:
+  - test_chip_2.tif
+  negative: test_chip_1.tif
+chip_cropping:
+  top_left_x: 750
+  top_left_y: 810
+  bottom_right_x: 16005
+  bottom_right_y: 15982
+whole_chip: true
